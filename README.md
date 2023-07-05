@@ -4,7 +4,8 @@ Each folder has a different FPGA project increasing in skill as the Lab # increa
 
 Each folder has its own description of the Project:
 
-//
+</br>
+
 Lab1: Intro Code
 
 Lab2: Basic Input / Output using Microcontoller parallel ports 
