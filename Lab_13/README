@@ -1,1 +1,26 @@
+Making a Traffic System using all Components such as 
+• GPIOs 
+• A/D Converter 
+• Temperature sensor 
+• Light sensor 
+• PWM – Fan & speaker 
+• Timer and Counters 
+• System interrupts 
+• TFT interface 
+• I2C bus 
+• SPI bus 
+• RTC 
+• IR Remote Control 
 
+
+Integrating a design that will have the following functions: 
+• A TFT panel used as a main display. 
+• An ambient temperature in degree C and F is displayed on the screen 
+• A digital clock shows the time and date 
+• A fan support with full function control – On/Off and speed 
+• An indicator of the duty cycle for the fan control 
+• An alarm function is available to activate a multicolor LED when the alarm set time 
+is reached 
+• A remote control used to setup the actual time, the alarm time and the set temperature 
+for a heater control (represented by the fan). 
+• A push-button switch used to enable the Alarm function
