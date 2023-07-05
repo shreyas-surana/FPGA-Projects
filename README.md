@@ -4,25 +4,25 @@ Each folder has a different FPGA project increasing in skill as the Lab # increa
 
 Each folder has its own description of the Project
 
-Lab1:
+Lab1: Intro Code
 
-Lab2:
+Lab2: Basic Input / Output using Microcontoller parallel ports 
 
-Lab3:
+Lab3: Introduction to Assembly Language 
 
-Lab4:
+Lab4: More Assembly Language Work
 
-Lab7:
+Lab7: Traffic Light Controller with use of System Timer
 
-Lab8:
+Lab8: Implementation of LCD Panel in a Traffic Light Controller
 
-Lab9:
+Lab9: System Interupt and External Interrupts 
 
-Lab10:
+Lab10: Interface to Infra Red Remote Control
 
-Lab11:
+Lab11: I2C Bus Implementation 
 
-Lab12:
+Lab12: Fan Speed measurement with Speed control through PWM
 
-Lab13:
+Lab13: Completed Traffic System
 
